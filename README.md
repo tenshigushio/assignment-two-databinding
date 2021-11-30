@@ -1,5 +1,13 @@
 # AssignmentTwoDatabinding
 
+## Assignment 2: Practicing Databinding [(Angular - The Complete Guide (2022 Edition))](https://accentureatlp.udemy.com/course/the-complete-guide-to-angular-2/learn/practice/268/introduction#overview)
+
+## Assignment Instructions
+1. Add an input field which updates a property ('username') via Two-Way-Binding
+2. Output the username property via String Interpolation (in a paragraph below the input)
+3. Add a button which may only be clicked if the username is not an empty string
+4. Upon clicking the button, the username should be reset to an empty string.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
 
 ## Development server
